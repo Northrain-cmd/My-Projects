@@ -1,5 +1,7 @@
 # My-Projects
 ## A list of my deployed projects
+### Library-Angular [Live](https://northrain-cmd.github.io/library-angular/) | [Repo](https://github.com/Northrain-cmd/library-angular)
+#### Technologies used: HTML, CSS, TypeScript, Angular, Firebase Auth, Firebase Firestore
 ### To Do List  [Live](https://northrain-cmd.github.io/To-Do/) | [Repo](https://github.com/Northrain-cmd/To-Do)
 #### Technologies used: HTML, CSS, JavaScript, Firebase Auth, Firebase Firestore, Webpack
 ### Tic-Tac-Toe [Live](https://northrain-cmd.github.io/Tic-Tac-Toe/)  | [Repo](https://github.com/Northrain-cmd/Tic-Tac-Toe)
