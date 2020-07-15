@@ -10,6 +10,8 @@
 #### Technologies used: HTML, CSS, JavaScript, Firebase Auth, Firebase Firestore, Webpack
 ### Tic-Tac-Toe [Live](https://northrain-cmd.github.io/Tic-Tac-Toe/)  | [Repo](https://github.com/Northrain-cmd/Tic-Tac-Toe)
 #### Technologies used: HTML, CSS, JavaScript
+### Library-React [Live](https://northrain-cmd.github.io/library-react/)  | [Repo](https://github.com/Northrain-cmd/library-react)
+#### Technologies used: HTML, CSS, JavaScript, React, Google Books API
 ### Library [Live](https://northrain-cmd.github.io/Library_Final/)  | [Repo](https://github.com/Northrain-cmd/Library)
 #### Technologies used: HTML, CSS, JavaScript, Local Storage, Zurb Foundation
 ### Pomodoro Timer [Live](https://northrain-cmd.github.io/Pomodoro/)  |  [Repo](https://github.com/Northrain-cmd/Pomodoro)
