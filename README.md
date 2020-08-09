@@ -4,6 +4,8 @@
 #### Technologies used: HTML, CSS, TypeScript, Angular, Firebase Auth, Firebase Firestore
 ### BattleShip-Angular [Live](https://northrain-cmd.github.io/Battleship-Angular/) | [Repo]( https://github.com/Northrain-cmd/Battleship-Angular)
 #### Technologies used: HTML, CSS, TypeScript, Angular
+### Game-Deals-Angular [Live](https://northrain-cmd.github.io/Game-Deals-Angular/) | [Repo](https://github.com/Northrain-cmd/Game-Deals-Angular)
+#### Technologies used: HTML, CSS, TypeScript, Angular, Bootstrap
 ### Weather-Angular [Live](https://northrain-cmd.github.io/Weather-Angular/) | [Repo](https://github.com/Northrain-cmd/Weather-Angular)
 #### Technologies used: HTML, CSS, TypeScript, Angular, OpenWeather API
 ### To Do List  [Live](https://northrain-cmd.github.io/To-Do/) | [Repo](https://github.com/Northrain-cmd/To-Do)
